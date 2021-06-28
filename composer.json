@@ -1,0 +1,19 @@
+{
+    "name": "ibu/fit",
+    "description": "Project for web",
+    "license": "Apache2",
+    "autoload": {
+        "psr-4": {
+            "Ibu\\Fit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "melasacic",
+            "email": "mela.sacic@gmail.com"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.3"
+    }
+}
